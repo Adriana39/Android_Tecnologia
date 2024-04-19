@@ -61,7 +61,7 @@ header > p {
     color: white;
     font-family: var(--fonte-destaque);
     font-size: 1.2em;
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
     text-shadow: 2px 2px 2px rgba(7, 48, 3, 0.555);
    
@@ -69,7 +69,7 @@ header > p {
 
 nav{
     background-color: var(--cor03);    
-    padding: 30px;
+    padding: 20px;
     box-shadow: 7px 7px 9px rgba(5, 104, 43, 0.459);
     font-weight: bold;
     
@@ -85,6 +85,7 @@ background-color: var(--cor04);
 nav a:hover{
 background-color: var(--cor02);
 color: var(--cor03);
+padding: 1px;
 
 
 }
@@ -92,11 +93,12 @@ color: var(--cor03);
 nav > a{
     color: white;
     text-decoration: none;
-    padding: 15px;
-    font-size: 20px;
+    padding: 10px;
+    font-size: 17px;
     border-radius: 7px;
-    transition-duration: .4s;
+    transition-duration: .3s;
     margin-top: 30px;
+    
     
 }
 
