@@ -1,6 +1,6 @@
 <h1>Android Tecnologia</h1>
 <hr>
-<h2>Nesse projeto apreendi algumas funcionalidade novas do HTMl5 e CSS3 com o professor Gustavo Guanabara no <a href="https://www.youtube.com/@CursoemVideo">Curso em Video</a> </h2>
+<h2>Nesse projeto apreendi algumas funcionalidade novas do HTML5 e CSS3 com o professor Gustavo Guanabara no <a href="https://www.youtube.com/@CursoemVideo">Curso em Video</a> </h2>
 <img src="https://github.com/Adriana39/Android_Tecnologia/blob/main/assets/divulga%C3%A7%C3%A3o.png?raw=true"/>
 <h3>Nesse projeto foi praticado as seguintes tecnologias:</h3>
 <h2>HTML5 : permitiu que eu iniciasse a criação do site, inserindo textos, imagens , videos, links </h2>
