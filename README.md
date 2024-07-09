@@ -13,4 +13,4 @@
 <p> Pratiquei o uso da Tipografia / Fontes externas e por links / Pseudo Classes e Elementos / Box Level / Inline Box/ Grouping de Tag/ Seletores Padrão e personalizados /
 Text indent / text align /@fonte- face / Fonte -size , weight e style/ Paletas de cores / Gradiente / interação nos botões / arrendodamento e sobreamentos de bordas com o border-radius e border shadow/
   Conceito de Variaveis no CSS utilizando a tag ::roots / configraões de video e imagens / Responsividade /</p>
-<h2>convido você a acessar o site e ver como ficou as aplicações: <a href="https://androidtecnologia.netlify.app/" target="_blank">Android Tecnologia</a> </h2>
+<h2>convido você a acessar o site e ver como ficou as aplicações: <a href="https://adriana39.github.io/Android_Tecnologia/"</a> </h2>
